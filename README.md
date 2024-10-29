@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ZEros</h1>
 <h3 align="center">I'm Penetration Tester , Bug Hunter and CTF Player</h3>
-<iframe src="https://giphy.com/embed/g7I9B1ZXVZtmM" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smoke-leonardo-dicaprio-titanic-g7I9B1ZXVZtmM">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/915792633190919598/1915A8073059D9EB994F20DB7ABDD2CFE6503062/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xzeros66&label=Profile%20views&color=0e75b6&style=flat" alt="0xzeros66" /> </p>
 
