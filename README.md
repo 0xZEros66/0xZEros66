@@ -5,14 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xzeros66&label=Profile%20views&color=0e75b6&style=flat" alt="0xzeros66" /> </p>
 
-- 🌱 I’m currently learning **Bug Hunting**
-
-- 💬 Ask me about **Cyber Security,Programming,Ai**
-
-- 📫 How to reach me **dolar199930@gmail.com**
-
-- ⚡ Fun fact **I think I can get top 100 in my country at hackerone?**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/zeros2112009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zeros2112009" height="30" width="40" /></a>
