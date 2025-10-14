@@ -6,4 +6,6 @@ I focus on red teaming as my long-term goal while building experience in penetra
 - Check my linkedin -> soon
 - Follow me on X -> https://x.com/zerros666
 - Fun fact: age is just a number - keep learning
+- HTB -> https://app.hackthebox.com/users/2418277
+- THM -> https://tryhackme.com/p/ZEros666
 
