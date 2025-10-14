@@ -5,5 +5,5 @@ I focus on red teaming as my long-term goal while building experience in penetra
 - Check my booring blogs -> https://medium.com/@zeros666
 - Check my linkedin -> soon
 - Follow me on X -> https://x.com/zerros666
-- ⚡ Fun fact: age is just a number - keep learning
+- Fun fact: age is just a number - keep learning
 
